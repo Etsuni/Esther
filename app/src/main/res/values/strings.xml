@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Esther</string>
+    <string name="title_logs">Dialogue entre Esther et Cid</string>
+
+    <string name="navigation_drawer_open">Ouvrir le Navigation Drawer</string>
+    <string name="navigation_drawer_close">Fermer le Navigation Drawer</string>
+
+    <string name="alert_bluetooth_none">Vous n\'avez pas de Bluetooth sur votre appareil :(</string>
+    <string name="alert_bluetooth_enabled">Merci :D</string>
+    <string name="alert_bluetooth_disabled">Vous n\'avez toujours pas activé le Bluetooth. Tant pis&#8230;</string>
+
+    <string name="alert_bluetooth_connect">Connexion à l\'appareil</string>
+    <string name="alert_bluetooth_reconnect">Reconnexion à l\'appareil</string>
+    <string name="alert_bluetooth_connected">Vous êtes connecté ;)</string>
+    <string name="alert_bluetooth_disconnected">Vous avez été correctement déconnecté</string>
+    <string name="alert_bluetooth_failed">Impossible de vous connecter :(</string>
+    <string name="alert_bluetooth_busy">Impossible de vous connecter :( Une autre application est peut être connectée ?</string>
+
+    <string name="action_bluetooth_update">Horloge mise à jour</string>
+    <string name="action_bluetooth_update_failed">Echec de la mise à jour de l\'horloge</string>
+    <string name="action_bluetooth_sel">Skin de l\'horloge changé</string>
+    <string name="action_bluetooth_sel_failed">Echec du changement du skin de l\'horloge</string>
+    <string name="action_bluetooth_prog_add">Programmation ajoutée</string>
+    <string name="action_bluetooth_prog_ex">Echec : il existe une programmation à cette même date</string>
+    <string name="action_bluetooth_prog_add_failed">Echec de la programmation</string>
+    <string name="action_bluetooth_prog_del">Programmation retirée</string>
+    <string name="action_bluetooth_prog_del_failed">Echec du retrait de la programmation</string>
+
+    <string name="navigation_drawer_update">Mise à jour de l\'heure</string>
+    <string name="navigation_drawer_get_date">Récupérer l\'heure de Cid</string>
+
+    <string name="prog_repeat">Répéter la programmation</string>
+        <string name="lundi">Lundi</string>
+        <string name="mardi">Mardi</string>
+        <string name="mercredi">Mercredi</string>
+        <string name="jeudi">Jeudi</string>
+        <string name="vendredi">Vendredi</string>
+        <string name="samedi">Samedi</string>
+        <string name="dimanche">Dimanche</string>
+        <string name="btnProg">Envoyer la programmation</string>
+
+    <string name="navigation_drawer_home">Statistiques</string>
+    <string name="navigation_drawer_prog">Programmations</string>
+
+    <string name="navigation_drawer_contact">Parler à CID</string>
+
+    <string name="navigation_drawer_parametre">Paramètres</string>
+        <string name="action_settings">Options</string>
+
+            <string name="setting_category_device">Paramètrage de la cafetière</string>
+                <string name="settings_appareil">Choisissez votre appareil</string>
+
+    <string name="setting_category_coffee">Préférences de vos brevages</string>
+        <string name="settings_simple_coffee">Force du café simple</string>
+        <string name="settings_long_coffee">Force du café long</string>
+        <string name="settings_double_coffee">Force du café double</string>
+
+        <string name="navigation_drawer_logs">Visualiser les logs</string>
+            <string name="log_init">Vide ! Ils n\'ont pas encore parlé ;)</string>
+
+
+
+</resources>

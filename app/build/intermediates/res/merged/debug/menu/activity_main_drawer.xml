@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/navigation_drawer_home"
+            android:checked="true" />
+        <item
+            android:id="@+id/nav_prog"
+            android:title="@string/navigation_drawer_prog" />
+    </group>
+
+    <item android:title="@string/navigation_drawer_contact">
+        <menu>
+            <item
+                android:id="@+id/nav_update"
+                android:icon="@drawable/ic_action_update"
+                android:title="@string/navigation_drawer_update" />
+            <item
+                android:id="@+id/nav_get_date"
+                android:icon="@drawable/ic_action_get_date"
+                android:title="@string/navigation_drawer_get_date" />
+        </menu>
+    </item>
+
+    <item android:title="@string/navigation_drawer_parametre">
+        <menu>
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_menu_setting"
+                android:title="@string/action_settings" />
+            <item
+                android:id="@+id/nav_logs"
+                android:icon="@drawable/ic_menu_logs"
+                android:title="@string/navigation_drawer_logs" />
+        </menu>
+    </item>
+
+</menu>

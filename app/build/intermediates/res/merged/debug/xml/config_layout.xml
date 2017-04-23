@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:title="@string/navigation_drawer_parametre" >
+
+    <PreferenceCategory android:title="@string/setting_category_device">
+        <ListPreference
+            android:id="@+id/liste_appareil"
+            android:key="pref_Appareil"
+            android:title="@string/settings_appareil"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/setting_category_coffee">
+
+        <SeekBarPreference
+            android:key="simpleCoffee"
+            android:title="@string/settings_simple_coffee"
+            android:max="100"
+            android:defaultValue="50" />
+
+        <SeekBarPreference
+            android:key="longCoffee"
+            android:title="@string/settings_long_coffee"
+            android:max="100"
+            android:defaultValue="60" />
+
+        <SeekBarPreference
+            android:key="doubleCoffee"
+            android:title="@string/settings_double_coffee"
+            android:max="100"
+            android:defaultValue="40" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
