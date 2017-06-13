@@ -40,8 +40,11 @@ import android.util.Log;
 class Bluetooth {
 
     // Debugging
-    private static final String TAG = "BluetoothService";
+    private static final String TAG = "CustomBluetoothService";
     private static final boolean D = false;
+    private static final boolean E = false;
+    private static final boolean I = false;
+    private static final boolean W = false;
 
     // Nom pour qualifier la connexion avec le dispositif
     private static final String NAME = "cidChat";
@@ -412,12 +415,12 @@ class Bluetooth {
                 // successful connection or an exception
                 mmSocket.connect();
             } catch (IOException e) {
-                Log.e(TAG,"Unable to connect socket ",e);
+                if(E) Log.e(TAG,"Unable to connect socket ",e);
                 // Close the socket
                 try {
                     mmSocket.close();
                 } catch (IOException e2) {
-                    Log.e(TAG, "unable to close() " + mSocketType
+                    if(E) Log.e(TAG, "unable to close() " + mSocketType
                             + " socket during connection failure", e2);
                 }
                 connectionFailed();
@@ -437,7 +440,7 @@ class Bluetooth {
             try {
                 mmSocket.close();
             } catch (IOException e) {
-                Log.e(TAG, "close() of connect " + mSocketType
+                if(E) Log.e(TAG, "close() of connect " + mSocketType
                         + " socket failed", e);
             }
         }
@@ -453,7 +456,7 @@ class Bluetooth {
         private final OutputStream mmOutStream;
 
         private ConnectedThread(BluetoothSocket socket, String socketType) {
-            Log.d(TAG, "create ConnectedThread: " + socketType);
+            if(D) Log.d(TAG, "create ConnectedThread: " + socketType);
             mmSocket = socket;
             InputStream tmpIn = null;
             OutputStream tmpOut = null;
@@ -463,7 +466,7 @@ class Bluetooth {
                 tmpIn = socket.getInputStream();
                 tmpOut = socket.getOutputStream();
             } catch (IOException e) {
-                Log.e(TAG, "temp sockets not created", e);
+                if(E) Log.e(TAG, "temp sockets not created", e);
             }
 
             mmInStream = tmpIn;
@@ -471,7 +474,7 @@ class Bluetooth {
         }
 
         public void run() {
-            Log.i(TAG, "BEGIN mConnectedThread");
+            if(I) Log.i(TAG, "BEGIN mConnectedThread");
             byte[] buffer = new byte[1024];
             int bytes, len;
             StringBuilder readMessage = new StringBuilder();
@@ -507,7 +510,7 @@ class Bluetooth {
                     }
 
                 } catch (IOException e) {
-                    Log.e(TAG, "disconnected", e);
+                    if(E) Log.e(TAG, "disconnected", e);
                     connectionLost();
                     // Start the service over to restart listening mode
                     Bluetooth.this.start();
@@ -530,7 +533,7 @@ class Bluetooth {
                 mHandler.obtainMessage(MESSAGE_WRITE, -1, -1,
                         buffer).sendToTarget();
             } catch (IOException e) {
-                Log.e(TAG, "Exception during write", e);
+                if(E) Log.e(TAG, "Exception during write", e);
             }
         }
 
@@ -538,7 +541,7 @@ class Bluetooth {
             try {
                 mmSocket.close();
             } catch (IOException e) {
-                Log.e(TAG, "close() of connect socket failed", e);
+                if(E) Log.e(TAG, "close() of connect socket failed", e);
             }
         }
     }
@@ -546,7 +549,7 @@ class Bluetooth {
     void sendMessage(String message) {
         // Check that we're actually connected before trying anything
         if (this.getState() != Bluetooth.STATE_CONNECTED) {
-            Log.w(TAG, "Le Bluetooth n'est pas connecté !");
+            if(W) Log.w(TAG, "Le Bluetooth n'est pas connecté !");
             mHandler.obtainMessage(MESSAGE_DISPLAY, "Le Bluetooth n'est pas connecté !").sendToTarget();
             return;
         }
@@ -572,7 +575,7 @@ class Bluetooth {
             BluetoothDevice device = adapter.getRemoteDevice(address); // Get the BluetoothDevice object
             this.connect(device); // Attempt to connect to the device
         } catch (Exception e){
-            Log.e("Unable to connect "+ address,e.getMessage());
+            if(E) Log.e("Unable to connect "+ address,e.getMessage());
         }
     }
 

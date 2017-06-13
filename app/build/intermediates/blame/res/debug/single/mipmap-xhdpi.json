@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_sid_index.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\src\\main\\res\\mipmap-xhdpi\\ic_sid_index.png"
     }
 ]

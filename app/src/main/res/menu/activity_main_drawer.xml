@@ -14,10 +14,6 @@
     <item android:title="@string/navigation_drawer_contact">
         <menu>
             <item
-                android:id="@+id/nav_update"
-                android:icon="@drawable/ic_action_update"
-                android:title="@string/navigation_drawer_update" />
-            <item
                 android:id="@+id/nav_get_date"
                 android:icon="@drawable/ic_action_get_date"
                 android:title="@string/navigation_drawer_get_date" />

@@ -1,10 +1,8 @@
 package fr.nover.esther;
 
-import android.app.AlertDialog;
 import android.bluetooth.BluetoothAdapter;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
@@ -15,7 +13,6 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.util.Log;
 import android.view.Gravity;
-import android.view.LayoutInflater;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -32,11 +29,6 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.google.android.gms.appindexing.Action;
-import com.google.android.gms.appindexing.AppIndex;
-import com.google.android.gms.appindexing.Thing;
-import com.google.android.gms.common.api.GoogleApiClient;
-
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
@@ -46,14 +38,16 @@ public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
     // DEBUG
-    public final String TAG = "MainActivity";
-    public final boolean D = true;
+    public final String TAG = "CustomMainActivity";
+    private static final boolean D = true;
+    private static final boolean E = false;
+    private static final boolean I = true;
+    private static final boolean W = false;
 
     // Variables Layout
     private DrawerLayout drawer;
     private int nbFragment = 0;
     ListView listeProg;
-    private ImageView iconState;
 
     // Variables Bluetooth
     private final static int REQUEST_CODE_ENABLE_BLUETOOTH = 0;
@@ -66,14 +60,9 @@ public class MainActivity extends AppCompatActivity
     private SharedPreferences settings;
 
     // Dialog pour les Logs
-    static List<String> listLogsString = new ArrayList<>();
+    static List<String> listLogsString = new ArrayList<String>();
     static ArrayAdapter adapterLogs;
-
-    /**
-     * ATTENTION: This was auto-generated to implement the App Indexing API.
-     * See https://g.co/AppIndexing/AndroidStudio for more information.
-     */
-    private GoogleApiClient client;
+    static MsgAdapter msgAdapter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -82,7 +71,6 @@ public class MainActivity extends AppCompatActivity
 
         // Toolbar
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        iconState = (ImageView) findViewById(R.id.iconState);
         setSupportActionBar(toolbar);
 
         // Définition du Drawer (Ouverture par la gauche du menu)
@@ -91,6 +79,8 @@ public class MainActivity extends AppCompatActivity
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
         drawer.setDrawerListener(toggle);
         toggle.syncState();
+
+        Log.wtf("Test", "test");
 
         // Déclare la première vue (FragmentHome)
         Fragment fragment = null;
@@ -117,15 +107,10 @@ public class MainActivity extends AppCompatActivity
                     cid.stop();
                     cid = null;
                 }
+                // ToDo: Mettre à jour les paramètres du café
             }
         };
         settings.registerOnSharedPreferenceChangeListener(myPrefListner);
-
-        // Logs
-        View rootView = getLayoutInflater().inflate(R.layout.fragment_logs, null, false);
-        rootView.setLayoutParams(new ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT ));
-
-        MsgAdapter msgAdapter = new MsgAdapter(this, (LinearLayout) rootView.findViewById(R.id.content_logs));
 
         // Vérification de l'activation du Bluetooth
         if (bluetoothAdapter == null)
@@ -143,14 +128,6 @@ public class MainActivity extends AppCompatActivity
             display(this.getResources().getString(R.string.alert_bluetooth_connect));
             cid = new Cid(this, mHandlerMain, settings.getString("pref_Appareil", ""));
         }
-
-        // Enregistrement des logs
-        msgAdapter.addEntry(2, "POUET");
-        msgAdapter.addEntry(1, "POUET2");
-
-        // ATTENTION: This was auto-generated to implement the App Indexing API.
-        // See https://g.co/AppIndexing/AndroidStudio for more information.
-        client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
     }
 
     @Override
@@ -233,24 +210,23 @@ public class MainActivity extends AppCompatActivity
                 nbFragment = 0;
                 break;
 
-            case R.id.nav_update:
+            /*case R.id.nav_update:
                 // On récupère la date, on l'envoie et on l'affiche
                 Calendar c = Calendar.getInstance();
                 SimpleDateFormat df1 = new SimpleDateFormat("dd_MM_yyyy_HH_mm_ss");
                 int day = (c.get(Calendar.DAY_OF_WEEK) + 5) % 7;
                 String date = df1.format(c.getTime());
+                msgAdapter.addEntry(1, "EHHHHHHh");
 
                 sendMessage("HOR_DEF_" + day + date);
-                if (D) Log.d(TAG, "HOR_DEF" + day + date);
-                listLogsString.add("Esther : Charge la date du portable");
-                adapterLogs.notifyDataSetChanged();
-                break;
+                if (D) Log.d(TAG, "HOR_DEF_" + day + date);                                               // ToDo: Erreur NullPointer
+                break;*/
 
             case R.id.nav_get_date:
                 // On lui demande la date de l'appareil
                 sendMessage("GET_DATE");
                 listLogsString.add("Esther : Quelle est la date de CID ?");
-                adapterLogs.notifyDataSetChanged();
+                //adapterLogs.notifyDataSetChanged();
                 break;
 
             case R.id.nav_settings:
@@ -260,6 +236,7 @@ public class MainActivity extends AppCompatActivity
                 break;
 
             case R.id.nav_logs:
+
                 if (D) Log.d(TAG, "Log View");
                 fragmentClass = FragmentLogs.class;
 
@@ -319,7 +296,7 @@ public class MainActivity extends AppCompatActivity
 
     public void sendMessage(String msg) {
         if (cid != null) {
-            cid.sendMessage(msg);
+            cid.sendMessage(msg+"\n");
         } else {
             display("Vous n'êtes pas connecté");
         }
@@ -343,8 +320,8 @@ public class MainActivity extends AppCompatActivity
                     break;
 
                 case Cid.FLAG_LOGS:
-                    listLogsString.add(msg.getData().getString("message"));
-                    adapterLogs.notifyDataSetChanged();
+                    if(I) Log.i(TAG, msg.getData().getString("message"));
+
                     break;
 
                 case Cid.FLAG_STATE_CHANGE:
@@ -353,22 +330,18 @@ public class MainActivity extends AppCompatActivity
 
                         case (Bluetooth.STATE_NONE):
                             // Déconnecté
-                            iconState.setImageResource(R.drawable.ic_state_disconnected);
                             break;
 
                         case (Bluetooth.STATE_CONNECTING):
                             // En connexion
-                            iconState.setImageResource(R.drawable.ic_state_connecting);
                             break;
 
                         case (Bluetooth.STATE_LISTEN):
                             // En écoute
-                            iconState.setImageResource(R.drawable.ic_state_connecting);
                             break;
 
                         case (Bluetooth.STATE_CONNECTED):
                             // Connecté
-                            iconState.setImageResource(R.drawable.ic_state_connected);
                             break;
                     }
                     break;
@@ -387,40 +360,4 @@ public class MainActivity extends AppCompatActivity
             }
         }
     };
-
-    /**
-     * ATTENTION: This was auto-generated to implement the App Indexing API.
-     * See https://g.co/AppIndexing/AndroidStudio for more information.
-     */
-    public Action getIndexApiAction() {
-        Thing object = new Thing.Builder()
-                .setName("Main Page") // TODO: Define a title for the content shown.
-                // TODO: Make sure this auto-generated URL is correct.
-                .setUrl(Uri.parse("http://[ENTER-YOUR-URL-HERE]"))
-                .build();
-        return new Action.Builder(Action.TYPE_VIEW)
-                .setObject(object)
-                .setActionStatus(Action.STATUS_TYPE_COMPLETED)
-                .build();
-    }
-
-    @Override
-    public void onStart() {
-        super.onStart();
-
-        // ATTENTION: This was auto-generated to implement the App Indexing API.
-        // See https://g.co/AppIndexing/AndroidStudio for more information.
-        client.connect();
-        AppIndex.AppIndexApi.start(client, getIndexApiAction());
-    }
-
-    @Override
-    public void onStop() {
-        super.onStop();
-
-        // ATTENTION: This was auto-generated to implement the App Indexing API.
-        // See https://g.co/AppIndexing/AndroidStudio for more information.
-        AppIndex.AppIndexApi.end(client, getIndexApiAction());
-        client.disconnect();
-    }
 }

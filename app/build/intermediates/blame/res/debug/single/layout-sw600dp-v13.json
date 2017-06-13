@@ -1,6 +1,6 @@
 [
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\f55d0f8ddd7bc6ea303e5164b6af96dd4a80f123\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

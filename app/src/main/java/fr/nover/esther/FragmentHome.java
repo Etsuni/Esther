@@ -9,6 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewGroup.LayoutParams;
+import android.widget.Button;
 import android.widget.TextView;
 
 /**
@@ -27,6 +28,44 @@ public class FragmentHome extends Fragment {
         rootView = inflater.inflate(R.layout.fragment_home, container, false);
 
         rootView.setLayoutParams(new LayoutParams(LayoutParams.MATCH_PARENT,LayoutParams.MATCH_PARENT ));
+
+        Button button  = (Button) rootView.findViewById(R.id.btnCoffeeDouble);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                ((MainActivity) getActivity()).sendMessage("EXE_COFFEE_DOUBLE");
+                display("Tu vas etre en forme...");
+            }
+        });
+
+        Button button1  = (Button) rootView.findViewById(R.id.btnCoffeeLong);
+        button1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                ((MainActivity) getActivity()).sendMessage("EXE_COFFEE_LONG");
+                display("Let's go for Coffee !");
+            }
+        });
+
+        Button button2 = (Button) rootView.findViewById(R.id.btnCoffeeCourt);
+        button2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                ((MainActivity) getActivity()).sendMessage("EXE_COFFEE_COURT");
+                display("Un café court, un ! !");
+            }
+        });
+
+        Button button3 = (Button) rootView.findViewById(R.id.btnThe);
+        button3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                ((MainActivity) getActivity()).sendMessage("EXE_THE");
+                ((MainActivity) getActivity()).sendMessage("EXE_THE");
+                display("Thé partant ?!");
+            }
+        });
+
         return rootView;
     }
 

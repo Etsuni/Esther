@@ -1,22 +1,22 @@
 [
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\b63cb03958e3d3a7fe21acbaa109bd8bac2ead3b\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/res/drawable-v21/design_bottom_navigation_item_background.xml"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\b63cb03958e3d3a7fe21acbaa109bd8bac2ead3b\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\b63cb03958e3d3a7fe21acbaa109bd8bac2ead3b\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\f55d0f8ddd7bc6ea303e5164b6af96dd4a80f123\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-v21/notification_action_background.xml"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\b63cb03958e3d3a7fe21acbaa109bd8bac2ead3b\\output\\res\\drawable-v21\\notification_action_background.xml"
     }
 ]

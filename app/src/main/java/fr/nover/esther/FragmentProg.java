@@ -180,7 +180,7 @@ public class FragmentProg extends Fragment {
         // Programmation ponctuelle
         } else {
             if(D) Log.d(TAG,"PROG_ADD_"+formatHeure(day)+formatHeure(month)+year+formatHeure(hour)+formatHeure(minute));
-            ((MainActivity) getActivity()).sendMessage("PROG_ADD_"+formatHeure(day)+formatHeure(month)+year+formatHeure(hour)+formatHeure(minute));
+            ((MainActivity) getActivity()).sendMessage("PROG_ADD_"+formatHeure(day)+"_"+formatHeure(month)+"_"+year+"_"+formatHeure(hour)+"_"+formatHeure(minute));
         }
 
     }

@@ -1,0 +1,4 @@
+#Tue Jun 13 08:57:47 CEST 2017
+base.0=C\:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=C\:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

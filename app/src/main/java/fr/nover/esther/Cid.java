@@ -7,6 +7,9 @@ import android.os.Handler;
 import android.os.Message;
 import android.util.Log;
 
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 /**
  * Created by nover on 25/10/16.
  */
@@ -14,7 +17,7 @@ import android.util.Log;
 class Cid {
 
     // Debug
-    private static final String TAG = "Cid";
+    private static final String TAG = "CustomCid";
     private static final boolean D = true;
 
     // Variables privées
@@ -170,8 +173,13 @@ class Cid {
                         } else if (infos[0].equals("GET")) {
 
                             if (infos[1].equals("DATE")) {
+                                long timestamp = Long.parseLong(infos[2]) *(long)10000 - (long)(3600000*2);
+                                if(D) Log.d(TAG, "Timestamp reçu : "+timestamp);
+                                Date date = new Date(timestamp);
+                                SimpleDateFormat formater = new SimpleDateFormat("'Le' dd/MM/yyyy 'à' HH:mm:ss");
+
                                 affiche(FLAG_LOGS, "message", "CID : " + infos[2]);
-                                affiche(FLAG_SNACKBAR, "message", infos[2]);
+                                affiche(FLAG_SNACKBAR, "message", ""+formater.format(date));
 
                             } else if (infos[1].equals("PROG")) {
 

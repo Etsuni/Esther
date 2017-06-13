@@ -687,7 +687,7 @@
     <string name="navigation_drawer_close">Fermer le Navigation Drawer</string>
     <string name="navigation_drawer_contact">Parler à CID</string>
     <string name="navigation_drawer_get_date">Récupérer l\'heure de Cid</string>
-    <string name="navigation_drawer_home">Statistiques</string>
+    <string name="navigation_drawer_home">Accueil</string>
     <string name="navigation_drawer_logs">Visualiser les logs</string>
     <string name="navigation_drawer_open">Ouvrir le Navigation Drawer</string>
     <string name="navigation_drawer_parametre">Paramètres</string>

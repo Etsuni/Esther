@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/res/values/values.xml",
+                    "file": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7171af85f3712d57b9cd29d6fb5b92e74fb84305\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

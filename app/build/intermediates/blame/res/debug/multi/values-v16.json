@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+        "outputFile": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 116
                 },
                 "from": {
-                    "file": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-v16/values-v16.xml",
+                    "file": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\b63cb03958e3d3a7fe21acbaa109bd8bac2ead3b\\output\\res\\values-v16\\values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

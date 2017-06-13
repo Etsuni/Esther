@@ -1,154 +1,154 @@
 [
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_google_signin_btn_icon_light_disabled.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_light_disabled.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_update.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_update.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_plus_signin_btn_text_light_pressed.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_light_pressed.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_plus_signin_btn_text_dark_normal.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_normal.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_focused.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_update.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/src/main/res/drawable-xxhdpi/ic_action_update.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_google_signin_btn_icon_light_focused.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_light_focused.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_google_signin_btn_text_light_disabled.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_light_disabled.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_google_signin_btn_text_dark_focused.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_dark_focused.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_focused.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_setting.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/src/main/res/drawable-xxhdpi/ic_menu_setting.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_logs.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_logs.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_google_signin_btn_icon_dark_normal.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_normal.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_normal.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_plus_signin_btn_icon_dark_pressed.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_normal.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_google_signin_btn_text_dark_normal.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_dark_normal.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\cmv_arrow.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\567afa11164f77313ac27cc9994c2828d10d20e5\\output\\res\\drawable-xxhdpi\\cmv_arrow.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_menu_logs.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/src/main/res/drawable-xxhdpi/ic_menu_logs.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_plus_signin_btn_icon_light_focused.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_focused.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_plus_signin_btn_icon_light_disabled.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_disabled.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_full_open_on_phone.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_google_signin_btn_text_light_normal.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_light_normal.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_get_date.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/src/main/res/drawable-xxhdpi/ic_action_get_date.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_plus_signin_btn_text_dark_pressed.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_google_signin_btn_text_dark_pressed.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_dark_pressed.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_plus_signin_btn_text_dark_focused.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_focused.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_google_signin_btn_icon_light_normal.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_light_normal.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_plus_signin_btn_icon_dark_normal.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_dark_disabled.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_plus_signin_btn_icon_light_normal.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_normal.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_google_signin_btn_icon_light_pressed.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_light_pressed.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_plus_signin_btn_text_light_focused.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_light_focused.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_plus_signin_btn_text_dark_disabled.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_normal.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_plus_signin_btn_icon_dark_disabled.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_plus_signin_btn_icon_light_pressed.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_light_pressed.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_focused.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_plus_signin_btn_text_light_normal.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_light_normal.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_plus_signin_btn_icon_dark_focused.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_get_date.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_get_date.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_google_signin_btn_text_light_focused.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_light_focused.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_full_open_on_phone.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_full_open_on_phone.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_normal.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/cmv_arrow.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/me.himanshusoni.chatmessageview/chat-message-view/1.0.3/res/drawable-xxhdpi/cmv_arrow.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_google_signin_btn_icon_dark_pressed.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_google_signin_btn_icon_dark_focused.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_focused.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_focused.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_plus_signin_btn_text_light_disabled.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_plus_signin_btn_text_light_disabled.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_google_signin_btn_text_light_pressed.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_text_light_pressed.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu_setting.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_setting.png"
     },
     {
-        "merged": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/res/merged/debug/drawable-xxhdpi/common_google_signin_btn_icon_dark_disabled.9.png",
-        "source": "/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xxhdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+        "merged": "C:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\Nicolas Guilloux\\.android\\build-cache\\7fadb154679865362d7871bbfd0c629e32c71e9e\\output\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_focused.9.png"
     }
 ]

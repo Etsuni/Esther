@@ -39,7 +39,7 @@
         <string name="dimanche">Dimanche</string>
         <string name="btnProg">Envoyer la programmation</string>
 
-    <string name="navigation_drawer_home">Statistiques</string>
+    <string name="navigation_drawer_home">Accueil</string>
     <string name="navigation_drawer_prog">Programmations</string>
 
     <string name="navigation_drawer_contact">Parler à CID</string>

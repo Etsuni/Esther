@@ -1,7 +1,7 @@
-#Tue Dec 13 20:28:11 CET 2016
-base.0=/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_acb46b49c93f3858fe6872cbb17f6a4a989dab3e
+#Tue Jun 13 09:30:53 CEST 2017
+base.0=C\:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_14357e0d8956864b7a145c74e80d6066064ee0e6
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dfd043cfab0a75a87ae6d48a38b7846500556cd4/classes.dex
-base.1=/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dfd043cfab0a75a87ae6d48a38b7846500556cd4
-file.0=/home/nover/AndroidStudioProjects/Esther/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_acb46b49c93f3858fe6872cbb17f6a4a989dab3e/classes.dex
+file.1=C\:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_21f649f30aac33110cd227422999ba0e3a555173\\classes.dex
+base.1=C\:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_21f649f30aac33110cd227422999ba0e3a555173
+file.0=C\:\\Users\\Nicolas Guilloux\\Documents\\GitHub\\Esther\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_14357e0d8956864b7a145c74e80d6066064ee0e6\\classes.dex

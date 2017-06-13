@@ -1,119 +1,119 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:3:1-45:12
+ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:3:1-45:12
 	package
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:4:5-30
-		INJECTED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml
-		INJECTED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml
-		INJECTED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:3:11-69
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:3:11-69
 	android:versionCode
-		INJECTED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml
-		INJECTED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml
 application
-ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:6:5-40:19
-MERGED from [com.android.support:design:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/AndroidManifest.xml:25:5-20
-MERGED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/me.himanshusoni.chatmessageview/chat-message-view/1.0.3/AndroidManifest.xml:11:5-14:19
+ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:6:5-40:19
+MERGED from [com.android.support:design:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\f55d0f8ddd7bc6ea303e5164b6af96dd4a80f123\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\b63cb03958e3d3a7fe21acbaa109bd8bac2ead3b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\b1e907075da7375f4864f557d8d7b3a0354f5e61\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\2fcf515457a5ddc2f7dce8c694025cbca82e67e9\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\639e26c2820b0f0c38507070ddd4c7e0fe235d76\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Nicolas Guilloux\.android\build-cache\3b61547c735451b92ef7e176e1e8a51216284067\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Nicolas Guilloux\.android\build-cache\e6d240364f4e12cb25d57684b704eba5b1d7643a\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\362a5d0241f7b71dd7b491972adad7ef7cec7615\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\aa6fdb74f4d38af1f47656b5913848264f81cdca\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\1410454993edb4a6b0a79e01874244225ffdaecf\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\fec8d47b02cd14e69beab7ce4587636ff58419fc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\87d1601cafefbe267d322b77e0b453f86f5481ab\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\3e6a88b15051170260bcbb54f33c42042fdca524\output\AndroidManifest.xml:25:5-20
+MERGED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] C:\Users\Nicolas Guilloux\.android\build-cache\567afa11164f77313ac27cc9994c2828d10d20e5\output\AndroidManifest.xml:11:5-14:19
 	android:label
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:9:9-41
 	android:supportsRtl
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:12:9-35
 	android:versionName
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:11:9-34
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:11:9-34
 	android:versionCode
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:10:9-32
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:10:9-32
 	android:allowBackup
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:7:9-35
 	android:icon
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:8:9-43
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:8:9-43
 	android:theme
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:13:9-40
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:13:9-40
 activity#fr.nover.esther.MainActivity
-ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:15:9-27:20
+ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:15:9-27:20
 	android:label
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:17:13-45
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:17:13-45
 	android:configChanges
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:19:13-74
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:19:13-74
 	android:allowBackup
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:20:13-40
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:20:13-40
 	android:theme
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:18:13-56
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:18:13-56
 	android:name
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:16:13-41
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:16:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:22:13-25:29
+ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:22:13-25:29
 action#android.intent.action.MAIN
-ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:23:17-69
+ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:23:25-66
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:24:27-74
 activity#fr.nover.esther.ConfigActivity
-ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:29:9-34:20
+ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:29:9-34:20
 	android:label
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:31:13-45
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:31:13-45
 	android:configChanges
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:32:13-74
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:32:13-74
 	android:allowBackup
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:33:13-39
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:33:13-39
 	android:name
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:30:13-43
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:30:13-43
 meta-data#com.google.android.gms.version
-ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:36:9-38:69
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:21:9-23:69
+ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:36:9-38:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Nicolas Guilloux\.android\build-cache\e6d240364f4e12cb25d57684b704eba5b1d7643a\output\AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:38:13-66
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:38:13-66
 	android:name
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:37:13-58
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:37:13-58
 uses-permission#android.permission.BLUETOOTH
-ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:42:5-67
+ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:42:5-67
 	android:name
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:42:22-65
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:42:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:43:5-73
+ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:43:5-73
 	android:name
-		ADDED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml:43:22-71
+		ADDED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml:43:22-71
 uses-sdk
-INJECTED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:8.4.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/AndroidManifest.xml:21:5-23:58
-MERGED from [com.edmodo:rangebar:1.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.edmodo/rangebar/1.0.0/AndroidManifest.xml:7:5-9:41
-MERGED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/me.himanshusoni.chatmessageview/chat-message-view/1.0.3/AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\f55d0f8ddd7bc6ea303e5164b6af96dd4a80f123\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\b63cb03958e3d3a7fe21acbaa109bd8bac2ead3b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\b1e907075da7375f4864f557d8d7b3a0354f5e61\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\2fcf515457a5ddc2f7dce8c694025cbca82e67e9\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\eb0337b92fc997c648938c3996687c7b6b6b50a0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\639e26c2820b0f0c38507070ddd4c7e0fe235d76\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Nicolas Guilloux\.android\build-cache\3b61547c735451b92ef7e176e1e8a51216284067\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\Nicolas Guilloux\.android\build-cache\7fadb154679865362d7871bbfd0c629e32c71e9e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Nicolas Guilloux\.android\build-cache\e6d240364f4e12cb25d57684b704eba5b1d7643a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\362a5d0241f7b71dd7b491972adad7ef7cec7615\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\aa6fdb74f4d38af1f47656b5913848264f81cdca\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\1410454993edb4a6b0a79e01874244225ffdaecf\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\fec8d47b02cd14e69beab7ce4587636ff58419fc\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\87d1601cafefbe267d322b77e0b453f86f5481ab\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\3e6a88b15051170260bcbb54f33c42042fdca524\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.edmodo:rangebar:1.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\6b113cc66601e69e2a188e7d44ff269d8d5e7126\output\AndroidManifest.xml:7:5-9:41
+MERGED from [me.himanshusoni.chatmessageview:chat-message-view:1.0.3] C:\Users\Nicolas Guilloux\.android\build-cache\567afa11164f77313ac27cc9994c2828d10d20e5\output\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.0.0] /home/nover/AndroidStudioProjects/Esther/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.0.0] C:\Users\Nicolas Guilloux\.android\build-cache\f55d0f8ddd7bc6ea303e5164b6af96dd4a80f123\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml
-		INJECTED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml
-		INJECTED from /home/nover/AndroidStudioProjects/Esther/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nicolas Guilloux\Documents\GitHub\Esther\app\src\main\AndroidManifest.xml

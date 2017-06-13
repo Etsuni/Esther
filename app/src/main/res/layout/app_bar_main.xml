@@ -18,15 +18,4 @@
        android:background="?attr/colorPrimary">
    </android.support.v7.widget.Toolbar>
 
-   <ImageView
-       android:id="@+id/iconState"
-       android:layout_width="@dimen/connexionIcon"
-       android:layout_height="@dimen/connexionIcon"
-
-       android:layout_alignParentRight="true"
-       android:layout_marginRight="@dimen/marginIcon"
-       android:layout_marginTop="@dimen/marginIcon"
-
-       android:src="@drawable/ic_state_disconnected" />
-
 </RelativeLayout>
